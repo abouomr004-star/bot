@@ -1,0 +1,6 @@
+{
+  "name": "Egypt Data Autofill Bot",
+  "description": "Generate mock data for Egyptian forms (National ID, Phone, Address) and ask questions about Egyptian administrative info.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
